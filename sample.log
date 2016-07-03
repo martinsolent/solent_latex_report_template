@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.7.2)  3 JUL 2016 19:23
+This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.7.2)  3 JUL 2016 19:26
  restricted system commands enabled.
  file:line:error style messages enabled.
 **sample.tex
@@ -241,7 +241,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.172 seconds)
+luaotfload | main : initialization completed in 0.173 seconds)
 Lua module: fontspec 2016/02/01 2.5a Advanced font selection for LuaLaTeX.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTe
@@ -698,7 +698,9 @@ Package luatex.def Info: assets/cat.jpeg used on input line 62.
 (luatex.def)             Requested size: 301.12425pt x 168.62958pt.
  [3
 
-<./assets/cat.jpeg>] (./sample.bbl) [4] (./sample.aux)
+<./assets/cat.jpeg>] [4] (./sample.bbl) [5
+
+] (./sample.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -716,10 +718,10 @@ t, 1 write nodes
  38i,5n,62p,348b,227s stack positions out of 5000i,500n,10000p,200000b,100000s
 </Library/Fonts/Trebuchet MS Bold.ttf></Users/joeappleton1/Library/Fonts/Trebuch
 et MS.ttf></Library/Fonts/Trebuchet MS Italic.ttf>
-Output written on sample.pdf (5 pages, 48096 bytes).
+Output written on sample.pdf (6 pages, 48531 bytes).
 
-PDF statistics: 42 PDF objects out of 1000 (max. 8388607)
- 24 compressed objects within 1 object stream
+PDF statistics: 45 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
