@@ -19,9 +19,8 @@
 %set up the bibliography, using the Harvard referencing style
 
 
-\usepackage[backend=bibtex]{biblatex}
-\bibliographystyle{harvard} % choose a display sty
-\bibliography{sample} 
+\usepackage{natbib}
+\bibliographystyle{agsm}
 
 
 
@@ -53,10 +52,10 @@ Tutor's name	\hspace{0.00cm}       : Your tutor   \\
 
 
 \section{Abstract}
-gffgfgfgfgfgfgfgfg \cite{einstein}
+gffgfgfgfgfgfgfgfg 
 \section{Introduction}
 
-Hello welcome to my project , check out the LaTeX guide if you're interested in how I structured this \cite{latex:guide}
+Hello welcome to my project , check out the LaTeX guide if you're interested in how I structured this  \citep{latex:guide}
 
 \begin{figure}[h!]
 	\centering
@@ -70,8 +69,7 @@ Hello welcome to my project , check out the LaTeX guide if you're interested in 
 
 \section{Literature survey}
 
-Latex seems ok \cite{latex:guide}
-
+ \cite[p33]{latex:guide} states that latex is good!!!!
 This is my Literature survey
 
 \section{Methodology}
@@ -94,7 +92,7 @@ Yes!
 
 All good thanks
 
-\printbibliography
+\bibliography{sample}
 
 
 \end{document}t}

@@ -1,49 +1,8 @@
-% $ biblatex auxiliary file $
-% $ biblatex bbl format version 2.7 $
-% Do not modify the above lines!
-%
-% This is an auxiliary file used by the 'biblatex' package.
-% This file may safely be deleted. It will be recreated as
-% required.
-%
-\begingroup
-\makeatletter
-\@ifundefined{ver@biblatex.sty}
-  {\@latex@error
-     {Missing 'biblatex' package}
-     {The bibliography requires the 'biblatex' package.}
-      \aftergroup\endinput}
-  {}
-\endgroup
+\begin{thebibliography}{xx}
 
-\sortlist[entry]{nty/global/}
-  \entry{latex:guide}{book}{}
-    \name{author}{2}{}{%
-      {{hash=KH}{%
-         family={Kopka},
-         family_i={K\bibinitperiod},
-         given={Helmut},
-         given_i={H\bibinitperiod},
-      }}%
-      {{hash=DPW}{%
-         family={Daly},
-         family_i={D\bibinitperiod},
-         given={Patrick\bibnamedelima W.},
-         given_i={P\bibinitperiod\bibinitdelim W\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {Addison-Wesley}%
-    }
-    \strng{namehash}{KHDPW1}
-    \strng{fullhash}{KHDPW1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{K}
-    \field{sortinithash}{K}
-    \field{title}{A Guide to {\LaTeX \rm:} {D}ocument Preparation for Beginners
-  and Advanced Users}
-    \field{year}{1993}
-  \endentry
-\endsortlist
-\endinput
+\harvarditem{Kopka \harvardand\ Daly}{1993}{latex:guide}
+Kopka, H. \harvardand\ Daly, P.~W.  \harvardyearleft 1993\harvardyearright ,
+  {\em A Guide to {\LaTeX \rm:} {D}ocument Preparation for Beginners and
+  Advanced Users}, Addison-Wesley.
+
+\end{thebibliography}
