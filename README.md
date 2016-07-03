@@ -1,1 +1,5 @@
-# solent_latex_report_template
+# A Solent University LaTeX Template
+
+
+A LaTeX template following Solents referencing and report writing standards.  
+
