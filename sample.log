@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.7.2)  3 JUL 2016 19:26
+This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.7.2)  4 JUL 2016 08:09
  restricted system commands enabled.
  file:line:error style messages enabled.
 **sample.tex
@@ -241,7 +241,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.173 seconds)
+luaotfload | main : initialization completed in 0.144 seconds)
 Lua module: fontspec 2016/02/01 2.5a Advanced font selection for LuaLaTeX.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTe
