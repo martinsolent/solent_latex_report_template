@@ -1,13 +1,13 @@
 # A Solent University LaTeX Template
 
 
-A LaTeX template following Solent's referencing and report writing standards.  
+A LaTeX template attempting following Solent's referencing and report writing standards.  
 
 I often find desktop editors such as Microsoft Word seem to have a mind of their own when it comes to formatting documents. 
 
 LaTeX lets you precisely define the layout standards before you start writing. This allows the separation of worrying about the layout and writing the content. 
 
-##How to get started
+## How to get started
 
 1.  Download a LaTeX editor
 	- [Mac TeX](https://tug.org/mactex/)
